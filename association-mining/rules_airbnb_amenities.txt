@@ -1,0 +1,387 @@
+Supp, Conf, Rule 
+ 0.7  1.0  TV -> Heating
+ 0.7  1.0  TV -> Heating Kitchen
+ 0.7  1.0  TV Heating -> Kitchen
+ 0.7  1.0  TV Kitchen -> Heating
+ 0.7  0.9  TV -> Heating Kitchen Wireless Internet
+ 0.7  1.0  TV Heating -> Kitchen Wireless Internet
+ 0.7  1.0  TV Heating Kitchen -> Wireless Internet
+ 0.7  1.0  TV Heating Wireless Internet -> Kitchen
+ 0.7  1.0  TV Kitchen -> Heating Wireless Internet
+ 0.7  1.0  TV Kitchen Wireless Internet -> Heating
+ 0.7  1.0  TV Wireless Internet -> Heating Kitchen
+ 0.7  1.0  TV -> Heating Wireless Internet
+ 0.7  1.0  TV Heating -> Wireless Internet
+ 0.7  1.0  TV Wireless Internet -> Heating
+ 0.6  0.9  TV -> Essentials
+ 0.7  1.0  TV -> Kitchen
+ 0.7  1.0  TV -> Kitchen Wireless Internet
+ 0.7  1.0  TV Kitchen -> Wireless Internet
+ 0.7  1.0  TV Wireless Internet -> Kitchen
+ 0.7  1.0  TV -> Wireless Internet
+ 0.5  0.9  Hair dryer -> Hangers
+ 0.5  0.9  Hair dryer -> Hangers Heating
+ 0.5  1.0  Hair dryer Hangers -> Heating
+ 0.5  0.9  Hair dryer Heating -> Hangers
+ 0.5  0.9  Hair dryer -> Hangers Wireless Internet
+ 0.5  1.0  Hair dryer Hangers -> Wireless Internet
+ 0.5  0.9  Hair dryer Wireless Internet -> Hangers
+ 0.5  1.0  Hair dryer -> Heating
+ 0.5  0.9  Hair dryer -> Heating Essentials
+ 0.5  1.0  Hair dryer Heating -> Essentials
+ 0.5  1.0  Hair dryer Essentials -> Heating
+ 0.5  0.9  Hair dryer -> Heating Essentials Kitchen
+ 0.5  0.9  Hair dryer Heating -> Essentials Kitchen
+ 0.5  1.0  Hair dryer Heating Essentials -> Kitchen
+ 0.5  1.0  Hair dryer Heating Kitchen -> Essentials
+ 0.5  0.9  Hair dryer Essentials -> Heating Kitchen
+ 0.5  1.0  Hair dryer Essentials Kitchen -> Heating
+ 0.5  0.9  Hair dryer Kitchen -> Heating Essentials
+ 0.5  0.9  Hair dryer -> Heating Essentials Wireless Internet
+ 0.5  0.9  Hair dryer Heating -> Essentials Wireless Internet
+ 0.5  1.0  Hair dryer Heating Essentials -> Wireless Internet
+ 0.5  1.0  Hair dryer Heating Wireless Internet -> Essentials
+ 0.5  1.0  Hair dryer Essentials -> Heating Wireless Internet
+ 0.5  1.0  Hair dryer Essentials Wireless Internet -> Heating
+ 0.5  0.9  Hair dryer Wireless Internet -> Heating Essentials
+ 0.5  0.9  Hair dryer -> Heating Kitchen
+ 0.5  1.0  Hair dryer Heating -> Kitchen
+ 0.5  1.0  Hair dryer Kitchen -> Heating
+ 0.5  0.9  Hair dryer -> Heating Kitchen Wireless Internet
+ 0.5  1.0  Hair dryer Heating -> Kitchen Wireless Internet
+ 0.5  1.0  Hair dryer Heating Kitchen -> Wireless Internet
+ 0.5  1.0  Hair dryer Heating Wireless Internet -> Kitchen
+ 0.5  1.0  Hair dryer Kitchen -> Heating Wireless Internet
+ 0.5  1.0  Hair dryer Kitchen Wireless Internet -> Heating
+ 0.5  0.9  Hair dryer Wireless Internet -> Heating Kitchen
+ 0.5  1.0  Hair dryer -> Heating Wireless Internet
+ 0.5  1.0  Hair dryer Heating -> Wireless Internet
+ 0.5  1.0  Hair dryer Wireless Internet -> Heating
+ 0.5  1.0  Hair dryer -> Essentials
+ 0.5  0.9  Hair dryer -> Essentials Kitchen
+ 0.5  1.0  Hair dryer Essentials -> Kitchen
+ 0.5  1.0  Hair dryer Kitchen -> Essentials
+ 0.5  0.9  Hair dryer -> Essentials Kitchen Wireless Internet
+ 0.5  1.0  Hair dryer Essentials -> Kitchen Wireless Internet
+ 0.5  1.0  Hair dryer Essentials Kitchen -> Wireless Internet
+ 0.5  1.0  Hair dryer Essentials Wireless Internet -> Kitchen
+ 0.5  0.9  Hair dryer Kitchen -> Essentials Wireless Internet
+ 0.5  1.0  Hair dryer Kitchen Wireless Internet -> Essentials
+ 0.5  0.9  Hair dryer Wireless Internet -> Essentials Kitchen
+ 0.5  0.9  Hair dryer -> Essentials Wireless Internet
+ 0.5  1.0  Hair dryer Essentials -> Wireless Internet
+ 0.5  1.0  Hair dryer Wireless Internet -> Essentials
+ 0.5  1.0  Hair dryer -> Kitchen
+ 0.5  1.0  Hair dryer -> Kitchen Wireless Internet
+ 0.5  1.0  Hair dryer Kitchen -> Wireless Internet
+ 0.5  1.0  Hair dryer Wireless Internet -> Kitchen
+ 0.6  1.0  Hair dryer -> Wireless Internet
+ 0.5  0.9  Iron -> Hangers
+ 0.5  0.9  Iron -> Hangers Heating
+ 0.5  0.9  Iron Heating -> Hangers
+ 0.5  0.9  Iron -> Hangers Wireless Internet
+ 0.5  0.9  Iron Wireless Internet -> Hangers
+ 0.5  0.9  Laptop friendly workspace -> Hangers
+ 0.5  0.9  Laptop friendly workspace -> Hangers Wireless Internet
+ 0.5  0.9  Laptop friendly workspace Wireless Internet -> Hangers
+ 0.6  1.0  Hangers -> Heating
+ 0.6  0.9  Hangers -> Heating Essentials
+ 0.6  0.9  Hangers Heating -> Essentials
+ 0.6  1.0  Hangers Essentials -> Heating
+ 0.6  0.9  Hangers -> Heating Essentials Wireless Internet
+ 0.6  0.9  Hangers Heating -> Essentials Wireless Internet
+ 0.6  1.0  Hangers Heating Essentials -> Wireless Internet
+ 0.6  1.0  Hangers Heating Wireless Internet -> Essentials
+ 0.6  1.0  Hangers Essentials -> Heating Wireless Internet
+ 0.6  1.0  Hangers Essentials Wireless Internet -> Heating
+ 0.6  0.9  Hangers Wireless Internet -> Heating Essentials
+ 0.6  0.9  Hangers -> Heating Kitchen
+ 0.6  1.0  Hangers Heating -> Kitchen
+ 0.6  1.0  Hangers Kitchen -> Heating
+ 0.6  0.9  Hangers -> Heating Kitchen Wireless Internet
+ 0.6  1.0  Hangers Heating -> Kitchen Wireless Internet
+ 0.6  1.0  Hangers Heating Kitchen -> Wireless Internet
+ 0.6  1.0  Hangers Heating Wireless Internet -> Kitchen
+ 0.6  1.0  Hangers Kitchen -> Heating Wireless Internet
+ 0.6  1.0  Hangers Kitchen Wireless Internet -> Heating
+ 0.6  0.9  Hangers Wireless Internet -> Heating Kitchen
+ 0.6  1.0  Hangers -> Heating Wireless Internet
+ 0.6  1.0  Hangers Heating -> Wireless Internet
+ 0.6  1.0  Hangers Wireless Internet -> Heating
+ 0.6  0.9  Hangers -> Essentials
+ 0.6  0.9  Hangers -> Essentials Kitchen
+ 0.6  1.0  Hangers Essentials -> Kitchen
+ 0.6  0.9  Hangers Kitchen -> Essentials
+ 0.6  0.9  Hangers -> Essentials Kitchen Wireless Internet
+ 0.6  1.0  Hangers Essentials -> Kitchen Wireless Internet
+ 0.6  1.0  Hangers Essentials Kitchen -> Wireless Internet
+ 0.6  1.0  Hangers Essentials Wireless Internet -> Kitchen
+ 0.6  0.9  Hangers Kitchen -> Essentials Wireless Internet
+ 0.6  1.0  Hangers Kitchen Wireless Internet -> Essentials
+ 0.6  0.9  Hangers Wireless Internet -> Essentials Kitchen
+ 0.6  0.9  Hangers -> Essentials Wireless Internet
+ 0.6  1.0  Hangers Essentials -> Wireless Internet
+ 0.6  0.9  Hangers Wireless Internet -> Essentials
+ 0.6  1.0  Hangers -> Kitchen
+ 0.6  0.9  Hangers -> Kitchen Wireless Internet
+ 0.6  1.0  Hangers Kitchen -> Wireless Internet
+ 0.6  1.0  Hangers Wireless Internet -> Kitchen
+ 0.6  1.0  Hangers -> Wireless Internet
+ 0.5  1.0  Iron -> Heating
+ 0.5  0.9  Iron -> Heating Essentials
+ 0.5  1.0  Iron Heating -> Essentials
+ 0.5  1.0  Iron Essentials -> Heating
+ 0.5  0.9  Iron -> Heating Essentials Kitchen
+ 0.5  0.9  Iron Heating -> Essentials Kitchen
+ 0.5  1.0  Iron Heating Essentials -> Kitchen
+ 0.5  1.0  Iron Heating Kitchen -> Essentials
+ 0.5  1.0  Iron Essentials -> Heating Kitchen
+ 0.5  1.0  Iron Essentials Kitchen -> Heating
+ 0.5  0.9  Iron Kitchen -> Heating Essentials
+ 0.5  0.9  Iron -> Heating Essentials Wireless Internet
+ 0.5  0.9  Iron Heating -> Essentials Wireless Internet
+ 0.5  1.0  Iron Heating Essentials -> Wireless Internet
+ 0.5  1.0  Iron Heating Wireless Internet -> Essentials
+ 0.5  1.0  Iron Essentials -> Heating Wireless Internet
+ 0.5  1.0  Iron Essentials Wireless Internet -> Heating
+ 0.5  0.9  Iron Wireless Internet -> Heating Essentials
+ 0.5  1.0  Iron -> Heating Kitchen
+ 0.5  1.0  Iron Heating -> Kitchen
+ 0.5  1.0  Iron Kitchen -> Heating
+ 0.5  0.9  Iron -> Heating Kitchen Wireless Internet
+ 0.5  1.0  Iron Heating -> Kitchen Wireless Internet
+ 0.5  1.0  Iron Heating Kitchen -> Wireless Internet
+ 0.5  1.0  Iron Heating Wireless Internet -> Kitchen
+ 0.5  1.0  Iron Kitchen -> Heating Wireless Internet
+ 0.5  1.0  Iron Kitchen Wireless Internet -> Heating
+ 0.5  1.0  Iron Wireless Internet -> Heating Kitchen
+ 0.5  1.0  Iron -> Heating Wireless Internet
+ 0.5  1.0  Iron Heating -> Wireless Internet
+ 0.5  1.0  Iron Wireless Internet -> Heating
+ 0.5  1.0  Iron -> Essentials
+ 0.5  0.9  Iron -> Essentials Kitchen
+ 0.5  1.0  Iron Essentials -> Kitchen
+ 0.5  1.0  Iron Kitchen -> Essentials
+ 0.5  0.9  Iron -> Essentials Kitchen Wireless Internet
+ 0.5  1.0  Iron Essentials -> Kitchen Wireless Internet
+ 0.5  1.0  Iron Essentials Kitchen -> Wireless Internet
+ 0.5  1.0  Iron Essentials Wireless Internet -> Kitchen
+ 0.5  0.9  Iron Kitchen -> Essentials Wireless Internet
+ 0.5  1.0  Iron Kitchen Wireless Internet -> Essentials
+ 0.5  0.9  Iron Wireless Internet -> Essentials Kitchen
+ 0.5  0.9  Iron -> Essentials Wireless Internet
+ 0.5  1.0  Iron Essentials -> Wireless Internet
+ 0.5  1.0  Iron Wireless Internet -> Essentials
+ 0.5  1.0  Iron -> Kitchen
+ 0.5  1.0  Iron -> Kitchen Wireless Internet
+ 0.5  1.0  Iron Kitchen -> Wireless Internet
+ 0.5  1.0  Iron Wireless Internet -> Kitchen
+ 0.5  1.0  Iron -> Wireless Internet
+ 0.6  1.0  Laptop friendly workspace -> Heating
+ 0.5  0.9  Laptop friendly workspace -> Heating Essentials
+ 0.5  1.0  Laptop friendly workspace Heating -> Essentials
+ 0.5  1.0  Laptop friendly workspace Essentials -> Heating
+ 0.5  0.9  Laptop friendly workspace -> Heating Essentials Wireless Internet
+ 0.5  0.9  Laptop friendly workspace Heating -> Essentials Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Heating Essentials -> Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Heating Wireless Internet -> Essentials
+ 0.5  1.0  Laptop friendly workspace Essentials -> Heating Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Essentials Wireless Internet -> Heating
+ 0.5  0.9  Laptop friendly workspace Wireless Internet -> Heating Essentials
+ 0.6  0.9  Laptop friendly workspace -> Heating Kitchen
+ 0.6  1.0  Laptop friendly workspace Heating -> Kitchen
+ 0.6  1.0  Laptop friendly workspace Kitchen -> Heating
+ 0.6  0.9  Laptop friendly workspace -> Heating Kitchen Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Heating -> Kitchen Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Heating Kitchen -> Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Heating Wireless Internet -> Kitchen
+ 0.6  1.0  Laptop friendly workspace Kitchen -> Heating Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Kitchen Wireless Internet -> Heating
+ 0.6  0.9  Laptop friendly workspace Wireless Internet -> Heating Kitchen
+ 0.6  1.0  Laptop friendly workspace -> Heating Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Heating -> Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Wireless Internet -> Heating
+ 0.6  0.9  Laptop friendly workspace -> Essentials
+ 0.5  0.9  Laptop friendly workspace -> Essentials Kitchen
+ 0.5  1.0  Laptop friendly workspace Essentials -> Kitchen
+ 0.5  1.0  Laptop friendly workspace Kitchen -> Essentials
+ 0.5  0.9  Laptop friendly workspace -> Essentials Kitchen Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Essentials -> Kitchen Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Essentials Kitchen -> Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Essentials Wireless Internet -> Kitchen
+ 0.5  0.9  Laptop friendly workspace Kitchen -> Essentials Wireless Internet
+ 0.5  1.0  Laptop friendly workspace Kitchen Wireless Internet -> Essentials
+ 0.5  0.9  Laptop friendly workspace Wireless Internet -> Essentials Kitchen
+ 0.6  0.9  Laptop friendly workspace -> Essentials Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Essentials -> Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Wireless Internet -> Essentials
+ 0.6  1.0  Laptop friendly workspace -> Kitchen
+ 0.6  1.0  Laptop friendly workspace -> Kitchen Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Kitchen -> Wireless Internet
+ 0.6  1.0  Laptop friendly workspace Wireless Internet -> Kitchen
+ 0.6  1.0  Laptop friendly workspace -> Wireless Internet
+ 0.8  1.0  Air conditioning -> Heating
+ 0.8  0.9  Air conditioning -> Heating Kitchen
+ 0.8  1.0  Air conditioning Heating -> Kitchen
+ 0.8  1.0  Air conditioning Kitchen -> Heating
+ 0.7  0.9  Air conditioning -> Heating Kitchen Wireless Internet
+ 0.7  0.9  Air conditioning Heating -> Kitchen Wireless Internet
+ 0.7  1.0  Air conditioning Heating Kitchen -> Wireless Internet
+ 0.7  1.0  Air conditioning Heating Wireless Internet -> Kitchen
+ 0.7  1.0  Air conditioning Kitchen -> Heating Wireless Internet
+ 0.7  1.0  Air conditioning Kitchen Wireless Internet -> Heating
+ 0.7  0.9  Air conditioning Wireless Internet -> Heating Kitchen
+ 0.8  1.0  Air conditioning -> Heating Wireless Internet
+ 0.8  1.0  Air conditioning Heating -> Wireless Internet
+ 0.8  1.0  Air conditioning Wireless Internet -> Heating
+ 0.8  1.0  Air conditioning -> Kitchen
+ 0.8  0.9  Air conditioning -> Kitchen Wireless Internet
+ 0.8  1.0  Air conditioning Kitchen -> Wireless Internet
+ 0.8  1.0  Air conditioning Wireless Internet -> Kitchen
+ 0.8  1.0  Air conditioning -> Wireless Internet
+ 0.7  1.0  Shampoo -> Heating
+ 0.7  0.9  Shampoo -> Heating Essentials
+ 0.7  1.0  Shampoo Essentials -> Heating
+ 0.7  0.9  Shampoo -> Heating Essentials Wireless Internet
+ 0.7  1.0  Shampoo Essentials -> Heating Wireless Internet
+ 0.7  1.0  Shampoo Essentials Wireless Internet -> Heating
+ 0.7  0.9  Shampoo Wireless Internet -> Heating Essentials
+ 0.7  0.9  Shampoo -> Heating Kitchen
+ 0.7  1.0  Shampoo Kitchen -> Heating
+ 0.7  0.9  Shampoo -> Heating Kitchen Wireless Internet
+ 0.7  1.0  Shampoo Kitchen -> Heating Wireless Internet
+ 0.7  1.0  Shampoo Kitchen Wireless Internet -> Heating
+ 0.7  0.9  Shampoo Wireless Internet -> Heating Kitchen
+ 0.7  1.0  Shampoo -> Heating Wireless Internet
+ 0.7  1.0  Shampoo Wireless Internet -> Heating
+ 0.9  1.0  Essentials -> Heating
+ 0.8  0.9  Essentials -> Heating Kitchen
+ 0.8  1.0  Essentials Kitchen -> Heating
+ 0.8  0.9  Essentials -> Heating Kitchen Wireless Internet
+ 0.8  1.0  Essentials Kitchen -> Heating Wireless Internet
+ 0.8  1.0  Essentials Kitchen Wireless Internet -> Heating
+ 0.8  0.9  Essentials Wireless Internet -> Heating Kitchen
+ 0.8  1.0  Essentials -> Heating Wireless Internet
+ 0.8  1.0  Essentials Wireless Internet -> Heating
+ 0.8  1.0  Washer -> Heating
+ 0.8  0.9  Washer -> Heating Dryer
+ 0.8  1.0  Washer Dryer -> Heating
+ 0.8  1.0  Dryer -> Heating Washer
+ 0.7  0.9  Washer -> Heating Dryer Kitchen
+ 0.7  0.9  Washer Dryer -> Heating Kitchen
+ 0.7  1.0  Washer Dryer Kitchen -> Heating
+ 0.7  0.9  Washer Kitchen -> Heating Dryer
+ 0.7  0.9  Dryer -> Heating Washer Kitchen
+ 0.7  1.0  Dryer Kitchen -> Heating Washer
+ 0.7  0.9  Washer -> Heating Dryer Kitchen Wireless Internet
+ 0.7  0.9  Washer Dryer -> Heating Kitchen Wireless Internet
+ 0.7  1.0  Washer Dryer Kitchen -> Heating Wireless Internet
+ 0.7  1.0  Washer Dryer Kitchen Wireless Internet -> Heating
+ 0.7  0.9  Washer Dryer Wireless Internet -> Heating Kitchen
+ 0.7  0.9  Washer Kitchen -> Heating Dryer Wireless Internet
+ 0.7  0.9  Washer Kitchen Wireless Internet -> Heating Dryer
+ 0.7  0.9  Washer Wireless Internet -> Heating Dryer Kitchen
+ 0.7  0.9  Dryer -> Heating Washer Kitchen Wireless Internet
+ 0.7  1.0  Dryer Kitchen -> Heating Washer Wireless Internet
+ 0.7  1.0  Dryer Kitchen Wireless Internet -> Heating Washer
+ 0.7  0.9  Dryer Wireless Internet -> Heating Washer Kitchen
+ 0.8  0.9  Washer -> Heating Dryer Wireless Internet
+ 0.8  1.0  Washer Dryer -> Heating Wireless Internet
+ 0.8  1.0  Washer Dryer Wireless Internet -> Heating
+ 0.8  0.9  Washer Wireless Internet -> Heating Dryer
+ 0.8  1.0  Dryer -> Heating Washer Wireless Internet
+ 0.8  1.0  Dryer Wireless Internet -> Heating Washer
+ 0.8  0.9  Washer -> Heating Kitchen
+ 0.8  1.0  Washer Kitchen -> Heating
+ 0.7  0.9  Washer -> Heating Kitchen Wireless Internet
+ 0.7  1.0  Washer Kitchen -> Heating Wireless Internet
+ 0.7  1.0  Washer Kitchen Wireless Internet -> Heating
+ 0.7  0.9  Washer Wireless Internet -> Heating Kitchen
+ 0.8  1.0  Washer -> Heating Wireless Internet
+ 0.8  1.0  Washer Wireless Internet -> Heating
+ 0.8  1.0  Dryer -> Heating
+ 0.7  0.9  Dryer -> Heating Kitchen
+ 0.7  1.0  Dryer Kitchen -> Heating
+ 0.7  0.9  Dryer -> Heating Kitchen Wireless Internet
+ 0.7  1.0  Dryer Kitchen -> Heating Wireless Internet
+ 0.7  1.0  Dryer Kitchen Wireless Internet -> Heating
+ 0.7  0.9  Dryer Wireless Internet -> Heating Kitchen
+ 0.8  1.0  Dryer -> Heating Wireless Internet
+ 0.8  1.0  Dryer Wireless Internet -> Heating
+ 0.9  1.0  Heating -> Kitchen
+ 0.9  1.0  Kitchen -> Heating
+ 0.9  0.9  Heating -> Kitchen Wireless Internet
+ 0.9  1.0  Heating Kitchen -> Wireless Internet
+ 0.9  1.0  Heating Wireless Internet -> Kitchen
+ 0.9  1.0  Kitchen -> Heating Wireless Internet
+ 0.9  1.0  Kitchen Wireless Internet -> Heating
+ 0.9  0.9  Wireless Internet -> Heating Kitchen
+ 0.5  0.9  Family/kid friendly -> Heating Kitchen Wireless Internet
+ 0.7  0.9  Internet -> Heating Kitchen Wireless Internet
+ 0.5  0.9  Family/kid friendly -> Heating Kitchen
+ 0.7  1.0  Internet -> Heating Kitchen
+ 0.9  1.0  Heating -> Wireless Internet
+ 0.9  1.0  Wireless Internet -> Heating
+ 0.5  1.0  Family/kid friendly -> Heating Wireless Internet
+ 0.7  1.0  Internet -> Heating Wireless Internet
+ 0.5  1.0  Family/kid friendly -> Heating
+ 0.7  1.0  Internet -> Heating
+ 0.7  1.0  Shampoo -> Essentials
+ 0.6  0.9  Shampoo -> Essentials Kitchen
+ 0.6  1.0  Shampoo Essentials -> Kitchen
+ 0.6  1.0  Shampoo Kitchen -> Essentials
+ 0.7  0.9  Shampoo -> Essentials Wireless Internet
+ 0.7  1.0  Shampoo Essentials -> Wireless Internet
+ 0.7  1.0  Shampoo Wireless Internet -> Essentials
+ 0.7  1.0  Shampoo -> Kitchen
+ 0.7  0.9  Shampoo -> Kitchen Wireless Internet
+ 0.7  1.0  Shampoo Kitchen -> Wireless Internet
+ 0.7  1.0  Shampoo Wireless Internet -> Kitchen
+ 0.7  1.0  Shampoo -> Wireless Internet
+ 0.8  1.0  Essentials -> Kitchen
+ 0.8  0.9  Essentials -> Kitchen Wireless Internet
+ 0.8  1.0  Essentials Kitchen -> Wireless Internet
+ 0.8  1.0  Essentials Wireless Internet -> Kitchen
+ 0.9  1.0  Essentials -> Wireless Internet
+ 0.5  0.9  Family/kid friendly -> Essentials
+ 0.8  1.0  Washer -> Dryer
+ 0.8  1.0  Dryer -> Washer
+ 0.8  0.9  Washer -> Dryer Kitchen
+ 0.8  1.0  Washer Dryer -> Kitchen
+ 0.8  1.0  Washer Kitchen -> Dryer
+ 0.8  1.0  Dryer -> Washer Kitchen
+ 0.8  1.0  Dryer Kitchen -> Washer
+ 0.7  0.9  Washer -> Dryer Kitchen Wireless Internet
+ 0.7  1.0  Washer Dryer -> Kitchen Wireless Internet
+ 0.7  1.0  Washer Dryer Kitchen -> Wireless Internet
+ 0.7  1.0  Washer Dryer Wireless Internet -> Kitchen
+ 0.7  1.0  Washer Kitchen -> Dryer Wireless Internet
+ 0.7  1.0  Washer Kitchen Wireless Internet -> Dryer
+ 0.7  0.9  Washer Wireless Internet -> Dryer Kitchen
+ 0.7  0.9  Dryer -> Washer Kitchen Wireless Internet
+ 0.7  1.0  Dryer Kitchen -> Washer Wireless Internet
+ 0.7  1.0  Dryer Kitchen Wireless Internet -> Washer
+ 0.7  1.0  Dryer Wireless Internet -> Washer Kitchen
+ 0.8  1.0  Washer -> Dryer Wireless Internet
+ 0.8  1.0  Washer Dryer -> Wireless Internet
+ 0.8  1.0  Washer Wireless Internet -> Dryer
+ 0.8  1.0  Dryer -> Washer Wireless Internet
+ 0.8  1.0  Dryer Wireless Internet -> Washer
+ 0.8  1.0  Washer -> Kitchen
+ 0.8  1.0  Washer -> Kitchen Wireless Internet
+ 0.8  1.0  Washer Kitchen -> Wireless Internet
+ 0.8  1.0  Washer Wireless Internet -> Kitchen
+ 0.8  1.0  Washer -> Wireless Internet
+ 0.8  1.0  Dryer -> Kitchen
+ 0.8  1.0  Dryer -> Kitchen Wireless Internet
+ 0.8  1.0  Dryer Kitchen -> Wireless Internet
+ 0.8  1.0  Dryer Wireless Internet -> Kitchen
+ 0.8  1.0  Dryer -> Wireless Internet
+ 0.9  1.0  Kitchen -> Wireless Internet
+ 0.9  1.0  Wireless Internet -> Kitchen
+ 0.5  0.9  Family/kid friendly -> Kitchen Wireless Internet
+ 0.7  1.0  Internet -> Kitchen Wireless Internet
+ 0.5  1.0  Family/kid friendly -> Kitchen
+ 0.7  1.0  Internet -> Kitchen
+ 0.5  1.0  Family/kid friendly -> Wireless Internet
+ 0.7  1.0  Internet -> Wireless Internet

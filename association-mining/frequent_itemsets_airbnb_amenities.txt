@@ -1,0 +1,579 @@
+Support 	 Itemset 
+(0.69) 	 TV
+(0.60) 	 TV, Air conditioning
+(0.59) 	 TV, Air conditioning, Heating
+(0.54) 	 TV, Air conditioning, Heating, Essentials
+(0.53) 	 TV, Air conditioning, Heating, Essentials, Kitchen
+(0.52) 	 TV, Air conditioning, Heating, Essentials, Kitchen, Wireless Internet
+(0.53) 	 TV, Air conditioning, Heating, Essentials, Wireless Internet
+(0.51) 	 TV, Air conditioning, Heating, Washer
+(0.51) 	 TV, Air conditioning, Heating, Washer, Dryer
+(0.50) 	 TV, Air conditioning, Heating, Washer, Dryer, Kitchen
+(0.50) 	 TV, Air conditioning, Heating, Washer, Dryer, Wireless Internet
+(0.51) 	 TV, Air conditioning, Heating, Washer, Kitchen
+(0.50) 	 TV, Air conditioning, Heating, Washer, Kitchen, Wireless Internet
+(0.51) 	 TV, Air conditioning, Heating, Washer, Wireless Internet
+(0.51) 	 TV, Air conditioning, Heating, Dryer
+(0.50) 	 TV, Air conditioning, Heating, Dryer, Kitchen
+(0.50) 	 TV, Air conditioning, Heating, Dryer, Kitchen, Wireless Internet
+(0.51) 	 TV, Air conditioning, Heating, Dryer, Wireless Internet
+(0.58) 	 TV, Air conditioning, Heating, Kitchen
+(0.57) 	 TV, Air conditioning, Heating, Kitchen, Wireless Internet
+(0.58) 	 TV, Air conditioning, Heating, Wireless Internet
+(0.54) 	 TV, Air conditioning, Essentials
+(0.53) 	 TV, Air conditioning, Essentials, Kitchen
+(0.53) 	 TV, Air conditioning, Essentials, Kitchen, Wireless Internet
+(0.54) 	 TV, Air conditioning, Essentials, Wireless Internet
+(0.52) 	 TV, Air conditioning, Washer
+(0.51) 	 TV, Air conditioning, Washer, Dryer
+(0.51) 	 TV, Air conditioning, Washer, Dryer, Kitchen
+(0.50) 	 TV, Air conditioning, Washer, Dryer, Kitchen, Wireless Internet
+(0.51) 	 TV, Air conditioning, Washer, Dryer, Wireless Internet
+(0.51) 	 TV, Air conditioning, Washer, Kitchen
+(0.51) 	 TV, Air conditioning, Washer, Kitchen, Wireless Internet
+(0.52) 	 TV, Air conditioning, Washer, Wireless Internet
+(0.52) 	 TV, Air conditioning, Dryer
+(0.51) 	 TV, Air conditioning, Dryer, Kitchen
+(0.51) 	 TV, Air conditioning, Dryer, Kitchen, Wireless Internet
+(0.51) 	 TV, Air conditioning, Dryer, Wireless Internet
+(0.58) 	 TV, Air conditioning, Kitchen
+(0.58) 	 TV, Air conditioning, Kitchen, Wireless Internet
+(0.59) 	 TV, Air conditioning, Wireless Internet
+(0.67) 	 TV, Heating
+(0.51) 	 TV, Heating, Shampoo
+(0.50) 	 TV, Heating, Shampoo, Wireless Internet
+(0.61) 	 TV, Heating, Essentials
+(0.52) 	 TV, Heating, Essentials, Washer
+(0.52) 	 TV, Heating, Essentials, Washer, Dryer
+(0.51) 	 TV, Heating, Essentials, Washer, Dryer, Kitchen
+(0.51) 	 TV, Heating, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.51) 	 TV, Heating, Essentials, Washer, Dryer, Wireless Internet
+(0.52) 	 TV, Heating, Essentials, Washer, Kitchen
+(0.51) 	 TV, Heating, Essentials, Washer, Kitchen, Wireless Internet
+(0.52) 	 TV, Heating, Essentials, Washer, Wireless Internet
+(0.52) 	 TV, Heating, Essentials, Dryer
+(0.51) 	 TV, Heating, Essentials, Dryer, Kitchen
+(0.51) 	 TV, Heating, Essentials, Dryer, Kitchen, Wireless Internet
+(0.52) 	 TV, Heating, Essentials, Dryer, Wireless Internet
+(0.60) 	 TV, Heating, Essentials, Kitchen
+(0.59) 	 TV, Heating, Essentials, Kitchen, Wireless Internet
+(0.61) 	 TV, Heating, Essentials, Wireless Internet
+(0.57) 	 TV, Heating, Washer
+(0.56) 	 TV, Heating, Washer, Dryer
+(0.56) 	 TV, Heating, Washer, Dryer, Kitchen
+(0.55) 	 TV, Heating, Washer, Dryer, Kitchen, Wireless Internet
+(0.56) 	 TV, Heating, Washer, Dryer, Wireless Internet
+(0.57) 	 TV, Heating, Washer, Kitchen
+(0.56) 	 TV, Heating, Washer, Kitchen, Wireless Internet
+(0.57) 	 TV, Heating, Washer, Wireless Internet
+(0.57) 	 TV, Heating, Dryer
+(0.56) 	 TV, Heating, Dryer, Kitchen
+(0.56) 	 TV, Heating, Dryer, Kitchen, Wireless Internet
+(0.56) 	 TV, Heating, Dryer, Wireless Internet
+(0.66) 	 TV, Heating, Kitchen
+(0.65) 	 TV, Heating, Kitchen, Wireless Internet
+(0.51) 	 TV, Heating, Kitchen, Wireless Internet, Internet
+(0.51) 	 TV, Heating, Kitchen, Internet
+(0.67) 	 TV, Heating, Wireless Internet
+(0.52) 	 TV, Heating, Wireless Internet, Internet
+(0.52) 	 TV, Heating, Internet
+(0.51) 	 TV, Shampoo
+(0.50) 	 TV, Shampoo, Kitchen
+(0.51) 	 TV, Shampoo, Wireless Internet
+(0.62) 	 TV, Essentials
+(0.53) 	 TV, Essentials, Washer
+(0.52) 	 TV, Essentials, Washer, Dryer
+(0.52) 	 TV, Essentials, Washer, Dryer, Kitchen
+(0.51) 	 TV, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.52) 	 TV, Essentials, Washer, Dryer, Wireless Internet
+(0.52) 	 TV, Essentials, Washer, Kitchen
+(0.52) 	 TV, Essentials, Washer, Kitchen, Wireless Internet
+(0.53) 	 TV, Essentials, Washer, Wireless Internet
+(0.53) 	 TV, Essentials, Dryer
+(0.52) 	 TV, Essentials, Dryer, Kitchen
+(0.52) 	 TV, Essentials, Dryer, Kitchen, Wireless Internet
+(0.52) 	 TV, Essentials, Dryer, Wireless Internet
+(0.61) 	 TV, Essentials, Kitchen
+(0.60) 	 TV, Essentials, Kitchen, Wireless Internet
+(0.62) 	 TV, Essentials, Wireless Internet
+(0.58) 	 TV, Washer
+(0.57) 	 TV, Washer, Dryer
+(0.57) 	 TV, Washer, Dryer, Kitchen
+(0.56) 	 TV, Washer, Dryer, Kitchen, Wireless Internet
+(0.57) 	 TV, Washer, Dryer, Wireless Internet
+(0.58) 	 TV, Washer, Kitchen
+(0.57) 	 TV, Washer, Kitchen, Wireless Internet
+(0.58) 	 TV, Washer, Wireless Internet
+(0.58) 	 TV, Dryer
+(0.57) 	 TV, Dryer, Kitchen
+(0.57) 	 TV, Dryer, Kitchen, Wireless Internet
+(0.57) 	 TV, Dryer, Wireless Internet
+(0.67) 	 TV, Kitchen
+(0.66) 	 TV, Kitchen, Wireless Internet
+(0.51) 	 TV, Kitchen, Wireless Internet, Internet
+(0.52) 	 TV, Kitchen, Internet
+(0.68) 	 TV, Wireless Internet
+(0.52) 	 TV, Wireless Internet, Internet
+(0.53) 	 TV, Internet
+(0.56) 	 Hair dryer
+(0.51) 	 Hair dryer, Hangers
+(0.50) 	 Hair dryer, Hangers, Heating
+(0.50) 	 Hair dryer, Hangers, Heating, Wireless Internet
+(0.51) 	 Hair dryer, Hangers, Wireless Internet
+(0.55) 	 Hair dryer, Heating
+(0.52) 	 Hair dryer, Heating, Essentials
+(0.50) 	 Hair dryer, Heating, Essentials, Kitchen
+(0.50) 	 Hair dryer, Heating, Essentials, Kitchen, Wireless Internet
+(0.52) 	 Hair dryer, Heating, Essentials, Wireless Internet
+(0.53) 	 Hair dryer, Heating, Kitchen
+(0.53) 	 Hair dryer, Heating, Kitchen, Wireless Internet
+(0.55) 	 Hair dryer, Heating, Wireless Internet
+(0.53) 	 Hair dryer, Essentials
+(0.51) 	 Hair dryer, Essentials, Kitchen
+(0.51) 	 Hair dryer, Essentials, Kitchen, Wireless Internet
+(0.53) 	 Hair dryer, Essentials, Wireless Internet
+(0.54) 	 Hair dryer, Kitchen
+(0.53) 	 Hair dryer, Kitchen, Wireless Internet
+(0.55) 	 Hair dryer, Wireless Internet
+(0.66) 	 Hangers
+(0.51) 	 Hangers, Iron
+(0.50) 	 Hangers, Iron, Heating
+(0.51) 	 Hangers, Iron, Wireless Internet
+(0.54) 	 Hangers, Laptop friendly workspace
+(0.53) 	 Hangers, Laptop friendly workspace, Heating
+(0.51) 	 Hangers, Laptop friendly workspace, Heating, Essentials
+(0.50) 	 Hangers, Laptop friendly workspace, Heating, Essentials, Wireless Internet
+(0.51) 	 Hangers, Laptop friendly workspace, Heating, Kitchen
+(0.51) 	 Hangers, Laptop friendly workspace, Heating, Kitchen, Wireless Internet
+(0.52) 	 Hangers, Laptop friendly workspace, Heating, Wireless Internet
+(0.51) 	 Hangers, Laptop friendly workspace, Essentials
+(0.51) 	 Hangers, Laptop friendly workspace, Essentials, Wireless Internet
+(0.52) 	 Hangers, Laptop friendly workspace, Kitchen
+(0.51) 	 Hangers, Laptop friendly workspace, Kitchen, Wireless Internet
+(0.53) 	 Hangers, Laptop friendly workspace, Wireless Internet
+(0.55) 	 Hangers, Air conditioning
+(0.54) 	 Hangers, Air conditioning, Heating
+(0.52) 	 Hangers, Air conditioning, Heating, Essentials
+(0.51) 	 Hangers, Air conditioning, Heating, Essentials, Wireless Internet
+(0.52) 	 Hangers, Air conditioning, Heating, Kitchen
+(0.52) 	 Hangers, Air conditioning, Heating, Kitchen, Wireless Internet
+(0.54) 	 Hangers, Air conditioning, Heating, Wireless Internet
+(0.52) 	 Hangers, Air conditioning, Essentials
+(0.50) 	 Hangers, Air conditioning, Essentials, Kitchen
+(0.52) 	 Hangers, Air conditioning, Essentials, Wireless Internet
+(0.53) 	 Hangers, Air conditioning, Kitchen
+(0.52) 	 Hangers, Air conditioning, Kitchen, Wireless Internet
+(0.54) 	 Hangers, Air conditioning, Wireless Internet
+(0.64) 	 Hangers, Heating
+(0.53) 	 Hangers, Heating, Shampoo
+(0.51) 	 Hangers, Heating, Shampoo, Essentials
+(0.51) 	 Hangers, Heating, Shampoo, Essentials, Wireless Internet
+(0.51) 	 Hangers, Heating, Shampoo, Kitchen
+(0.50) 	 Hangers, Heating, Shampoo, Kitchen, Wireless Internet
+(0.52) 	 Hangers, Heating, Shampoo, Wireless Internet
+(0.61) 	 Hangers, Heating, Essentials
+(0.51) 	 Hangers, Heating, Essentials, Washer
+(0.50) 	 Hangers, Heating, Essentials, Washer, Dryer
+(0.51) 	 Hangers, Heating, Essentials, Washer, Wireless Internet
+(0.51) 	 Hangers, Heating, Essentials, Dryer
+(0.50) 	 Hangers, Heating, Essentials, Dryer, Wireless Internet
+(0.59) 	 Hangers, Heating, Essentials, Kitchen
+(0.58) 	 Hangers, Heating, Essentials, Kitchen, Wireless Internet
+(0.60) 	 Hangers, Heating, Essentials, Wireless Internet
+(0.54) 	 Hangers, Heating, Washer
+(0.53) 	 Hangers, Heating, Washer, Dryer
+(0.51) 	 Hangers, Heating, Washer, Dryer, Kitchen
+(0.51) 	 Hangers, Heating, Washer, Dryer, Kitchen, Wireless Internet
+(0.52) 	 Hangers, Heating, Washer, Dryer, Wireless Internet
+(0.52) 	 Hangers, Heating, Washer, Kitchen
+(0.52) 	 Hangers, Heating, Washer, Kitchen, Wireless Internet
+(0.53) 	 Hangers, Heating, Washer, Wireless Internet
+(0.53) 	 Hangers, Heating, Dryer
+(0.52) 	 Hangers, Heating, Dryer, Kitchen
+(0.51) 	 Hangers, Heating, Dryer, Kitchen, Wireless Internet
+(0.52) 	 Hangers, Heating, Dryer, Wireless Internet
+(0.62) 	 Hangers, Heating, Kitchen
+(0.61) 	 Hangers, Heating, Kitchen, Wireless Internet
+(0.64) 	 Hangers, Heating, Wireless Internet
+(0.54) 	 Hangers, Shampoo
+(0.52) 	 Hangers, Shampoo, Essentials
+(0.50) 	 Hangers, Shampoo, Essentials, Kitchen
+(0.52) 	 Hangers, Shampoo, Essentials, Wireless Internet
+(0.52) 	 Hangers, Shampoo, Kitchen
+(0.51) 	 Hangers, Shampoo, Kitchen, Wireless Internet
+(0.53) 	 Hangers, Shampoo, Wireless Internet
+(0.62) 	 Hangers, Essentials
+(0.52) 	 Hangers, Essentials, Washer
+(0.51) 	 Hangers, Essentials, Washer, Dryer
+(0.51) 	 Hangers, Essentials, Washer, Dryer, Wireless Internet
+(0.51) 	 Hangers, Essentials, Washer, Kitchen
+(0.50) 	 Hangers, Essentials, Washer, Kitchen, Wireless Internet
+(0.52) 	 Hangers, Essentials, Washer, Wireless Internet
+(0.51) 	 Hangers, Essentials, Dryer
+(0.50) 	 Hangers, Essentials, Dryer, Kitchen
+(0.51) 	 Hangers, Essentials, Dryer, Wireless Internet
+(0.60) 	 Hangers, Essentials, Kitchen
+(0.59) 	 Hangers, Essentials, Kitchen, Wireless Internet
+(0.62) 	 Hangers, Essentials, Wireless Internet
+(0.55) 	 Hangers, Washer
+(0.53) 	 Hangers, Washer, Dryer
+(0.52) 	 Hangers, Washer, Dryer, Kitchen
+(0.52) 	 Hangers, Washer, Dryer, Kitchen, Wireless Internet
+(0.53) 	 Hangers, Washer, Dryer, Wireless Internet
+(0.53) 	 Hangers, Washer, Kitchen
+(0.53) 	 Hangers, Washer, Kitchen, Wireless Internet
+(0.54) 	 Hangers, Washer, Wireless Internet
+(0.54) 	 Hangers, Dryer
+(0.52) 	 Hangers, Dryer, Kitchen
+(0.52) 	 Hangers, Dryer, Kitchen, Wireless Internet
+(0.53) 	 Hangers, Dryer, Wireless Internet
+(0.63) 	 Hangers, Kitchen
+(0.62) 	 Hangers, Kitchen, Wireless Internet
+(0.65) 	 Hangers, Wireless Internet
+(0.55) 	 Iron
+(0.54) 	 Iron, Heating
+(0.52) 	 Iron, Heating, Essentials
+(0.50) 	 Iron, Heating, Essentials, Kitchen
+(0.51) 	 Iron, Heating, Essentials, Wireless Internet
+(0.53) 	 Iron, Heating, Kitchen
+(0.52) 	 Iron, Heating, Kitchen, Wireless Internet
+(0.54) 	 Iron, Heating, Wireless Internet
+(0.53) 	 Iron, Essentials
+(0.51) 	 Iron, Essentials, Kitchen
+(0.51) 	 Iron, Essentials, Kitchen, Wireless Internet
+(0.52) 	 Iron, Essentials, Wireless Internet
+(0.53) 	 Iron, Kitchen
+(0.53) 	 Iron, Kitchen, Wireless Internet
+(0.55) 	 Iron, Wireless Internet
+(0.59) 	 Laptop friendly workspace
+(0.58) 	 Laptop friendly workspace, Heating
+(0.55) 	 Laptop friendly workspace, Heating, Essentials
+(0.53) 	 Laptop friendly workspace, Heating, Essentials, Kitchen
+(0.53) 	 Laptop friendly workspace, Heating, Essentials, Kitchen, Wireless Internet
+(0.55) 	 Laptop friendly workspace, Heating, Essentials, Wireless Internet
+(0.56) 	 Laptop friendly workspace, Heating, Kitchen
+(0.55) 	 Laptop friendly workspace, Heating, Kitchen, Wireless Internet
+(0.57) 	 Laptop friendly workspace, Heating, Wireless Internet
+(0.56) 	 Laptop friendly workspace, Essentials
+(0.54) 	 Laptop friendly workspace, Essentials, Kitchen
+(0.54) 	 Laptop friendly workspace, Essentials, Kitchen, Wireless Internet
+(0.56) 	 Laptop friendly workspace, Essentials, Wireless Internet
+(0.57) 	 Laptop friendly workspace, Kitchen
+(0.56) 	 Laptop friendly workspace, Kitchen, Wireless Internet
+(0.58) 	 Laptop friendly workspace, Wireless Internet
+(0.81) 	 Air conditioning
+(0.79) 	 Air conditioning, Heating
+(0.59) 	 Air conditioning, Heating, Shampoo
+(0.56) 	 Air conditioning, Heating, Shampoo, Essentials
+(0.54) 	 Air conditioning, Heating, Shampoo, Essentials, Kitchen
+(0.54) 	 Air conditioning, Heating, Shampoo, Essentials, Kitchen, Wireless Internet
+(0.56) 	 Air conditioning, Heating, Shampoo, Essentials, Wireless Internet
+(0.51) 	 Air conditioning, Heating, Shampoo, Washer
+(0.50) 	 Air conditioning, Heating, Shampoo, Washer, Wireless Internet
+(0.50) 	 Air conditioning, Heating, Shampoo, Dryer
+(0.56) 	 Air conditioning, Heating, Shampoo, Kitchen
+(0.56) 	 Air conditioning, Heating, Shampoo, Kitchen, Wireless Internet
+(0.58) 	 Air conditioning, Heating, Shampoo, Wireless Internet
+(0.71) 	 Air conditioning, Heating, Essentials
+(0.61) 	 Air conditioning, Heating, Essentials, Washer
+(0.60) 	 Air conditioning, Heating, Essentials, Washer, Dryer
+(0.58) 	 Air conditioning, Heating, Essentials, Washer, Dryer, Kitchen
+(0.57) 	 Air conditioning, Heating, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.59) 	 Air conditioning, Heating, Essentials, Washer, Dryer, Wireless Internet
+(0.59) 	 Air conditioning, Heating, Essentials, Washer, Kitchen
+(0.58) 	 Air conditioning, Heating, Essentials, Washer, Kitchen, Wireless Internet
+(0.60) 	 Air conditioning, Heating, Essentials, Washer, Wireless Internet
+(0.60) 	 Air conditioning, Heating, Essentials, Dryer
+(0.59) 	 Air conditioning, Heating, Essentials, Dryer, Kitchen
+(0.58) 	 Air conditioning, Heating, Essentials, Dryer, Kitchen, Wireless Internet
+(0.59) 	 Air conditioning, Heating, Essentials, Dryer, Wireless Internet
+(0.68) 	 Air conditioning, Heating, Essentials, Kitchen
+(0.67) 	 Air conditioning, Heating, Essentials, Kitchen, Wireless Internet
+(0.51) 	 Air conditioning, Heating, Essentials, Kitchen, Wireless Internet, Internet
+(0.51) 	 Air conditioning, Heating, Essentials, Kitchen, Internet
+(0.70) 	 Air conditioning, Heating, Essentials, Wireless Internet
+(0.52) 	 Air conditioning, Heating, Essentials, Wireless Internet, Internet
+(0.53) 	 Air conditioning, Heating, Essentials, Internet
+(0.67) 	 Air conditioning, Heating, Washer
+(0.66) 	 Air conditioning, Heating, Washer, Dryer
+(0.64) 	 Air conditioning, Heating, Washer, Dryer, Kitchen
+(0.63) 	 Air conditioning, Heating, Washer, Dryer, Kitchen, Wireless Internet
+(0.65) 	 Air conditioning, Heating, Washer, Dryer, Wireless Internet
+(0.65) 	 Air conditioning, Heating, Washer, Kitchen
+(0.64) 	 Air conditioning, Heating, Washer, Kitchen, Wireless Internet
+(0.66) 	 Air conditioning, Heating, Washer, Wireless Internet
+(0.50) 	 Air conditioning, Heating, Washer, Wireless Internet, Internet
+(0.51) 	 Air conditioning, Heating, Washer, Internet
+(0.66) 	 Air conditioning, Heating, Dryer
+(0.64) 	 Air conditioning, Heating, Dryer, Kitchen
+(0.63) 	 Air conditioning, Heating, Dryer, Kitchen, Wireless Internet
+(0.65) 	 Air conditioning, Heating, Dryer, Wireless Internet
+(0.76) 	 Air conditioning, Heating, Kitchen
+(0.75) 	 Air conditioning, Heating, Kitchen, Wireless Internet
+(0.56) 	 Air conditioning, Heating, Kitchen, Wireless Internet, Internet
+(0.57) 	 Air conditioning, Heating, Kitchen, Internet
+(0.78) 	 Air conditioning, Heating, Wireless Internet
+(0.58) 	 Air conditioning, Heating, Wireless Internet, Internet
+(0.58) 	 Air conditioning, Heating, Internet
+(0.60) 	 Air conditioning, Shampoo
+(0.57) 	 Air conditioning, Shampoo, Essentials
+(0.55) 	 Air conditioning, Shampoo, Essentials, Kitchen
+(0.54) 	 Air conditioning, Shampoo, Essentials, Kitchen, Wireless Internet
+(0.56) 	 Air conditioning, Shampoo, Essentials, Wireless Internet
+(0.51) 	 Air conditioning, Shampoo, Washer
+(0.50) 	 Air conditioning, Shampoo, Washer, Dryer
+(0.51) 	 Air conditioning, Shampoo, Washer, Wireless Internet
+(0.51) 	 Air conditioning, Shampoo, Dryer
+(0.50) 	 Air conditioning, Shampoo, Dryer, Wireless Internet
+(0.57) 	 Air conditioning, Shampoo, Kitchen
+(0.56) 	 Air conditioning, Shampoo, Kitchen, Wireless Internet
+(0.59) 	 Air conditioning, Shampoo, Wireless Internet
+(0.72) 	 Air conditioning, Essentials
+(0.61) 	 Air conditioning, Essentials, Washer
+(0.60) 	 Air conditioning, Essentials, Washer, Dryer
+(0.59) 	 Air conditioning, Essentials, Washer, Dryer, Kitchen
+(0.58) 	 Air conditioning, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.60) 	 Air conditioning, Essentials, Washer, Dryer, Wireless Internet
+(0.60) 	 Air conditioning, Essentials, Washer, Kitchen
+(0.59) 	 Air conditioning, Essentials, Washer, Kitchen, Wireless Internet
+(0.61) 	 Air conditioning, Essentials, Washer, Wireless Internet
+(0.61) 	 Air conditioning, Essentials, Dryer
+(0.59) 	 Air conditioning, Essentials, Dryer, Kitchen
+(0.58) 	 Air conditioning, Essentials, Dryer, Kitchen, Wireless Internet
+(0.60) 	 Air conditioning, Essentials, Dryer, Wireless Internet
+(0.69) 	 Air conditioning, Essentials, Kitchen
+(0.68) 	 Air conditioning, Essentials, Kitchen, Wireless Internet
+(0.51) 	 Air conditioning, Essentials, Kitchen, Wireless Internet, Internet
+(0.51) 	 Air conditioning, Essentials, Kitchen, Internet
+(0.71) 	 Air conditioning, Essentials, Wireless Internet
+(0.53) 	 Air conditioning, Essentials, Wireless Internet, Internet
+(0.53) 	 Air conditioning, Essentials, Internet
+(0.68) 	 Air conditioning, Washer
+(0.67) 	 Air conditioning, Washer, Dryer
+(0.65) 	 Air conditioning, Washer, Dryer, Kitchen
+(0.64) 	 Air conditioning, Washer, Dryer, Kitchen, Wireless Internet
+(0.66) 	 Air conditioning, Washer, Dryer, Wireless Internet
+(0.66) 	 Air conditioning, Washer, Kitchen
+(0.65) 	 Air conditioning, Washer, Kitchen, Wireless Internet
+(0.67) 	 Air conditioning, Washer, Wireless Internet
+(0.51) 	 Air conditioning, Washer, Wireless Internet, Internet
+(0.51) 	 Air conditioning, Washer, Internet
+(0.67) 	 Air conditioning, Dryer
+(0.65) 	 Air conditioning, Dryer, Kitchen
+(0.64) 	 Air conditioning, Dryer, Kitchen, Wireless Internet
+(0.66) 	 Air conditioning, Dryer, Wireless Internet
+(0.50) 	 Air conditioning, Dryer, Wireless Internet, Internet
+(0.50) 	 Air conditioning, Dryer, Internet
+(0.77) 	 Air conditioning, Kitchen
+(0.76) 	 Air conditioning, Kitchen, Wireless Internet
+(0.57) 	 Air conditioning, Kitchen, Wireless Internet, Internet
+(0.57) 	 Air conditioning, Kitchen, Internet
+(0.79) 	 Air conditioning, Wireless Internet
+(0.59) 	 Air conditioning, Wireless Internet, Internet
+(0.59) 	 Air conditioning, Internet
+(0.97) 	 Heating
+(0.70) 	 Heating, Shampoo
+(0.67) 	 Heating, Shampoo, Essentials
+(0.55) 	 Heating, Shampoo, Essentials, Washer
+(0.54) 	 Heating, Shampoo, Essentials, Washer, Dryer
+(0.53) 	 Heating, Shampoo, Essentials, Washer, Dryer, Kitchen
+(0.52) 	 Heating, Shampoo, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.54) 	 Heating, Shampoo, Essentials, Washer, Dryer, Wireless Internet
+(0.54) 	 Heating, Shampoo, Essentials, Washer, Kitchen
+(0.53) 	 Heating, Shampoo, Essentials, Washer, Kitchen, Wireless Internet
+(0.55) 	 Heating, Shampoo, Essentials, Washer, Wireless Internet
+(0.55) 	 Heating, Shampoo, Essentials, Dryer
+(0.53) 	 Heating, Shampoo, Essentials, Dryer, Kitchen
+(0.53) 	 Heating, Shampoo, Essentials, Dryer, Kitchen, Wireless Internet
+(0.54) 	 Heating, Shampoo, Essentials, Dryer, Wireless Internet
+(0.64) 	 Heating, Shampoo, Essentials, Kitchen
+(0.63) 	 Heating, Shampoo, Essentials, Kitchen, Wireless Internet
+(0.66) 	 Heating, Shampoo, Essentials, Wireless Internet
+(0.58) 	 Heating, Shampoo, Washer
+(0.57) 	 Heating, Shampoo, Washer, Dryer
+(0.55) 	 Heating, Shampoo, Washer, Dryer, Kitchen
+(0.54) 	 Heating, Shampoo, Washer, Dryer, Kitchen, Wireless Internet
+(0.56) 	 Heating, Shampoo, Washer, Dryer, Wireless Internet
+(0.56) 	 Heating, Shampoo, Washer, Kitchen
+(0.56) 	 Heating, Shampoo, Washer, Kitchen, Wireless Internet
+(0.57) 	 Heating, Shampoo, Washer, Wireless Internet
+(0.57) 	 Heating, Shampoo, Dryer
+(0.55) 	 Heating, Shampoo, Dryer, Kitchen
+(0.55) 	 Heating, Shampoo, Dryer, Kitchen, Wireless Internet
+(0.57) 	 Heating, Shampoo, Dryer, Wireless Internet
+(0.67) 	 Heating, Shampoo, Kitchen
+(0.66) 	 Heating, Shampoo, Kitchen, Wireless Internet
+(0.50) 	 Heating, Shampoo, Kitchen, Wireless Internet, Internet
+(0.50) 	 Heating, Shampoo, Kitchen, Internet
+(0.69) 	 Heating, Shampoo, Wireless Internet
+(0.52) 	 Heating, Shampoo, Wireless Internet, Internet
+(0.52) 	 Heating, Shampoo, Internet
+(0.86) 	 Heating, Essentials
+(0.70) 	 Heating, Essentials, Washer
+(0.69) 	 Heating, Essentials, Washer, Dryer
+(0.67) 	 Heating, Essentials, Washer, Dryer, Kitchen
+(0.66) 	 Heating, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.68) 	 Heating, Essentials, Washer, Dryer, Wireless Internet
+(0.51) 	 Heating, Essentials, Washer, Dryer, Wireless Internet, Internet
+(0.51) 	 Heating, Essentials, Washer, Dryer, Internet
+(0.68) 	 Heating, Essentials, Washer, Kitchen
+(0.68) 	 Heating, Essentials, Washer, Kitchen, Wireless Internet
+(0.51) 	 Heating, Essentials, Washer, Kitchen, Wireless Internet, Internet
+(0.51) 	 Heating, Essentials, Washer, Kitchen, Internet
+(0.70) 	 Heating, Essentials, Washer, Wireless Internet
+(0.52) 	 Heating, Essentials, Washer, Wireless Internet, Internet
+(0.52) 	 Heating, Essentials, Washer, Internet
+(0.69) 	 Heating, Essentials, Dryer
+(0.67) 	 Heating, Essentials, Dryer, Kitchen
+(0.67) 	 Heating, Essentials, Dryer, Kitchen, Wireless Internet
+(0.50) 	 Heating, Essentials, Dryer, Kitchen, Internet
+(0.69) 	 Heating, Essentials, Dryer, Wireless Internet
+(0.51) 	 Heating, Essentials, Dryer, Wireless Internet, Internet
+(0.51) 	 Heating, Essentials, Dryer, Internet
+(0.82) 	 Heating, Essentials, Kitchen
+(0.81) 	 Heating, Essentials, Kitchen, Wireless Internet
+(0.60) 	 Heating, Essentials, Kitchen, Wireless Internet, Internet
+(0.60) 	 Heating, Essentials, Kitchen, Internet
+(0.85) 	 Heating, Essentials, Wireless Internet
+(0.62) 	 Heating, Essentials, Wireless Internet, Internet
+(0.62) 	 Heating, Essentials, Internet
+(0.78) 	 Heating, Washer
+(0.76) 	 Heating, Washer, Dryer
+(0.74) 	 Heating, Washer, Dryer, Kitchen
+(0.73) 	 Heating, Washer, Dryer, Kitchen, Wireless Internet
+(0.55) 	 Heating, Washer, Dryer, Kitchen, Wireless Internet, Internet
+(0.55) 	 Heating, Washer, Dryer, Kitchen, Internet
+(0.75) 	 Heating, Washer, Dryer, Wireless Internet
+(0.56) 	 Heating, Washer, Dryer, Wireless Internet, Internet
+(0.56) 	 Heating, Washer, Dryer, Internet
+(0.76) 	 Heating, Washer, Kitchen
+(0.75) 	 Heating, Washer, Kitchen, Wireless Internet
+(0.56) 	 Heating, Washer, Kitchen, Wireless Internet, Internet
+(0.56) 	 Heating, Washer, Kitchen, Internet
+(0.77) 	 Heating, Washer, Wireless Internet
+(0.57) 	 Heating, Washer, Wireless Internet, Internet
+(0.58) 	 Heating, Washer, Internet
+(0.77) 	 Heating, Dryer
+(0.74) 	 Heating, Dryer, Kitchen
+(0.73) 	 Heating, Dryer, Kitchen, Wireless Internet
+(0.55) 	 Heating, Dryer, Kitchen, Wireless Internet, Internet
+(0.55) 	 Heating, Dryer, Kitchen, Internet
+(0.76) 	 Heating, Dryer, Wireless Internet
+(0.56) 	 Heating, Dryer, Wireless Internet, Internet
+(0.57) 	 Heating, Dryer, Internet
+(0.92) 	 Heating, Kitchen
+(0.91) 	 Heating, Kitchen, Wireless Internet
+(0.52) 	 Heating, Kitchen, Wireless Internet, Family/kid friendly
+(0.66) 	 Heating, Kitchen, Wireless Internet, Internet
+(0.53) 	 Heating, Kitchen, Family/kid friendly
+(0.67) 	 Heating, Kitchen, Internet
+(0.95) 	 Heating, Wireless Internet
+(0.54) 	 Heating, Wireless Internet, Family/kid friendly
+(0.69) 	 Heating, Wireless Internet, Internet
+(0.54) 	 Heating, Family/kid friendly
+(0.69) 	 Heating, Internet
+(0.71) 	 Shampoo
+(0.68) 	 Shampoo, Essentials
+(0.56) 	 Shampoo, Essentials, Washer
+(0.55) 	 Shampoo, Essentials, Washer, Dryer
+(0.53) 	 Shampoo, Essentials, Washer, Dryer, Kitchen
+(0.53) 	 Shampoo, Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.55) 	 Shampoo, Essentials, Washer, Dryer, Wireless Internet
+(0.55) 	 Shampoo, Essentials, Washer, Kitchen
+(0.54) 	 Shampoo, Essentials, Washer, Kitchen, Wireless Internet
+(0.56) 	 Shampoo, Essentials, Washer, Wireless Internet
+(0.56) 	 Shampoo, Essentials, Dryer
+(0.54) 	 Shampoo, Essentials, Dryer, Kitchen
+(0.53) 	 Shampoo, Essentials, Dryer, Kitchen, Wireless Internet
+(0.55) 	 Shampoo, Essentials, Dryer, Wireless Internet
+(0.65) 	 Shampoo, Essentials, Kitchen
+(0.64) 	 Shampoo, Essentials, Kitchen, Wireless Internet
+(0.67) 	 Shampoo, Essentials, Wireless Internet
+(0.50) 	 Shampoo, Essentials, Internet
+(0.59) 	 Shampoo, Washer
+(0.58) 	 Shampoo, Washer, Dryer
+(0.56) 	 Shampoo, Washer, Dryer, Kitchen
+(0.55) 	 Shampoo, Washer, Dryer, Kitchen, Wireless Internet
+(0.57) 	 Shampoo, Washer, Dryer, Wireless Internet
+(0.57) 	 Shampoo, Washer, Kitchen
+(0.57) 	 Shampoo, Washer, Kitchen, Wireless Internet
+(0.58) 	 Shampoo, Washer, Wireless Internet
+(0.58) 	 Shampoo, Dryer
+(0.56) 	 Shampoo, Dryer, Kitchen
+(0.56) 	 Shampoo, Dryer, Kitchen, Wireless Internet
+(0.58) 	 Shampoo, Dryer, Wireless Internet
+(0.68) 	 Shampoo, Kitchen
+(0.67) 	 Shampoo, Kitchen, Wireless Internet
+(0.51) 	 Shampoo, Kitchen, Wireless Internet, Internet
+(0.51) 	 Shampoo, Kitchen, Internet
+(0.70) 	 Shampoo, Wireless Internet
+(0.52) 	 Shampoo, Wireless Internet, Internet
+(0.53) 	 Shampoo, Internet
+(0.88) 	 Essentials
+(0.72) 	 Essentials, Washer
+(0.70) 	 Essentials, Washer, Dryer
+(0.68) 	 Essentials, Washer, Dryer, Kitchen
+(0.67) 	 Essentials, Washer, Dryer, Kitchen, Wireless Internet
+(0.50) 	 Essentials, Washer, Dryer, Kitchen, Internet
+(0.69) 	 Essentials, Washer, Dryer, Wireless Internet
+(0.51) 	 Essentials, Washer, Dryer, Wireless Internet, Internet
+(0.51) 	 Essentials, Washer, Dryer, Internet
+(0.70) 	 Essentials, Washer, Kitchen
+(0.69) 	 Essentials, Washer, Kitchen, Wireless Internet
+(0.51) 	 Essentials, Washer, Kitchen, Wireless Internet, Internet
+(0.51) 	 Essentials, Washer, Kitchen, Internet
+(0.71) 	 Essentials, Washer, Wireless Internet
+(0.52) 	 Essentials, Washer, Wireless Internet, Internet
+(0.52) 	 Essentials, Washer, Internet
+(0.71) 	 Essentials, Dryer
+(0.69) 	 Essentials, Dryer, Kitchen
+(0.68) 	 Essentials, Dryer, Kitchen, Wireless Internet
+(0.50) 	 Essentials, Dryer, Kitchen, Wireless Internet, Internet
+(0.50) 	 Essentials, Dryer, Kitchen, Internet
+(0.70) 	 Essentials, Dryer, Wireless Internet
+(0.51) 	 Essentials, Dryer, Wireless Internet, Internet
+(0.52) 	 Essentials, Dryer, Internet
+(0.84) 	 Essentials, Kitchen
+(0.83) 	 Essentials, Kitchen, Wireless Internet
+(0.60) 	 Essentials, Kitchen, Wireless Internet, Internet
+(0.60) 	 Essentials, Kitchen, Internet
+(0.87) 	 Essentials, Wireless Internet
+(0.50) 	 Essentials, Wireless Internet, Family/kid friendly
+(0.62) 	 Essentials, Wireless Internet, Internet
+(0.51) 	 Essentials, Family/kid friendly
+(0.63) 	 Essentials, Internet
+(0.80) 	 Washer
+(0.78) 	 Washer, Dryer
+(0.76) 	 Washer, Dryer, Kitchen
+(0.75) 	 Washer, Dryer, Kitchen, Wireless Internet
+(0.55) 	 Washer, Dryer, Kitchen, Wireless Internet, Internet
+(0.55) 	 Washer, Dryer, Kitchen, Internet
+(0.77) 	 Washer, Dryer, Wireless Internet
+(0.57) 	 Washer, Dryer, Wireless Internet, Internet
+(0.57) 	 Washer, Dryer, Internet
+(0.78) 	 Washer, Kitchen
+(0.77) 	 Washer, Kitchen, Wireless Internet
+(0.57) 	 Washer, Kitchen, Wireless Internet, Internet
+(0.57) 	 Washer, Kitchen, Internet
+(0.79) 	 Washer, Wireless Internet
+(0.58) 	 Washer, Wireless Internet, Internet
+(0.58) 	 Washer, Internet
+(0.79) 	 Dryer
+(0.76) 	 Dryer, Kitchen
+(0.75) 	 Dryer, Kitchen, Wireless Internet
+(0.56) 	 Dryer, Kitchen, Wireless Internet, Internet
+(0.56) 	 Dryer, Kitchen, Internet
+(0.78) 	 Dryer, Wireless Internet
+(0.57) 	 Dryer, Wireless Internet, Internet
+(0.57) 	 Dryer, Internet
+(0.95) 	 Kitchen
+(0.93) 	 Kitchen, Wireless Internet
+(0.53) 	 Kitchen, Wireless Internet, Family/kid friendly
+(0.67) 	 Kitchen, Wireless Internet, Internet
+(0.54) 	 Kitchen, Family/kid friendly
+(0.68) 	 Kitchen, Internet
+(0.98) 	 Wireless Internet
+(0.55) 	 Wireless Internet, Family/kid friendly
+(0.70) 	 Wireless Internet, Internet
+(0.56) 	 Family/kid friendly
+(0.70) 	 Internet
