@@ -1,0 +1,45 @@
+Supp, Conf, Rule 
+0.60 0.97  room_type_Entire home/apt -> Heating
+0.59 0.95  room_type_Entire home/apt -> Heating Kitchen
+0.59 0.99  room_type_Entire home/apt Heating -> Kitchen
+0.59 0.98  room_type_Entire home/apt Kitchen -> Heating
+0.58 0.94  room_type_Entire home/apt -> Heating Kitchen Wireless Internet
+0.58 0.97  room_type_Entire home/apt Heating -> Kitchen Wireless Internet
+0.58 0.98  room_type_Entire home/apt Heating Kitchen -> Wireless Internet
+0.58 0.99  room_type_Entire home/apt Heating Wireless Internet -> Kitchen
+0.58 0.96  room_type_Entire home/apt Kitchen -> Heating Wireless Internet
+0.58 0.98  room_type_Entire home/apt Kitchen Wireless Internet -> Heating
+0.58 0.96  room_type_Entire home/apt Wireless Internet -> Heating Kitchen
+0.59 0.95  room_type_Entire home/apt -> Heating Wireless Internet
+0.59 0.98  room_type_Entire home/apt Heating -> Wireless Internet
+0.59 0.98  room_type_Entire home/apt Wireless Internet -> Heating
+0.56 0.90  room_type_Entire home/apt -> Essentials
+0.61 0.98  room_type_Entire home/apt -> Kitchen
+0.59 0.96  room_type_Entire home/apt -> Kitchen Wireless Internet
+0.59 0.98  room_type_Entire home/apt Kitchen -> Wireless Internet
+0.59 0.99  room_type_Entire home/apt Wireless Internet -> Kitchen
+0.60 0.97  room_type_Entire home/apt -> Wireless Internet
+0.48 0.95  property_type_Apartment -> Heating
+0.47 0.93  property_type_Apartment -> Heating Kitchen
+0.47 0.98  property_type_Apartment Heating -> Kitchen
+0.47 0.97  property_type_Apartment Kitchen -> Heating
+0.46 0.91  property_type_Apartment -> Heating Kitchen Wireless Internet
+0.46 0.96  property_type_Apartment Heating -> Kitchen Wireless Internet
+0.46 0.98  property_type_Apartment Heating Kitchen -> Wireless Internet
+0.46 0.98  property_type_Apartment Heating Wireless Internet -> Kitchen
+0.46 0.95  property_type_Apartment Kitchen -> Heating Wireless Internet
+0.46 0.97  property_type_Apartment Kitchen Wireless Internet -> Heating
+0.46 0.95  property_type_Apartment Wireless Internet -> Heating Kitchen
+0.47 0.93  property_type_Apartment -> Heating Wireless Internet
+0.47 0.98  property_type_Apartment Heating -> Wireless Internet
+0.47 0.97  property_type_Apartment Wireless Internet -> Heating
+0.48 0.97  property_type_Apartment -> Kitchen
+0.47 0.95  property_type_Apartment -> Kitchen Wireless Internet
+0.47 0.98  property_type_Apartment Kitchen -> Wireless Internet
+0.47 0.98  property_type_Apartment Wireless Internet -> Kitchen
+0.48 0.97  property_type_Apartment -> Wireless Internet
+0.33 0.94  room_type_Private room -> Heating
+0.33 0.93  room_type_Private room -> Heating Wireless Internet
+0.33 0.99  room_type_Private room Heating -> Wireless Internet
+0.33 0.96  room_type_Private room Wireless Internet -> Heating
+0.34 0.96  room_type_Private room -> Wireless Internet
